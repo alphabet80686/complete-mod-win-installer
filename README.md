@@ -6,13 +6,11 @@ Table of Contents
 
 0. Disclaimers
 
-1. Notes on This Flash Drive
-1.1. Help with Windows 8.1
+1. Notes on This Flash Drive (1.1. Help with Windows 8.1)
 
 2. Supported Operating Systems
 
-3. Requirements
-3.1. Help with Upgrading to Windows 11
+3. Requirements (3.1. Help with Upgrading to Windows 11)
 
 
 
