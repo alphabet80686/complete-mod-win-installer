@@ -1,4 +1,4 @@
-# Universal Modern Windows Installer
+# Complete Modern Windows Installer
 This is an installer for all versions of Microsoft Windows from 7 to 11. All versions are included are official, untouched versions (except for Windows 7 x64 - it has all of the official updates)
 
 Table of Contents
@@ -47,14 +47,14 @@ The following operating systems are included:
 -	Windows 7 (x86)
 
 Nothing before Windows 7 is included due to the lack of space on my 32 GB USB
-flash drive, hence the name "Universal Modern Windows Installer."
+flash drive, hence the name "Complete Modern Windows Installer."
 When booting from the installation media, you will see the following options:
 -	Windows 10 Setup (64-bit)
 -	Windows 10 Setup (32-bit)
 -	Windows 11 Setup
 
-Section 1.1 - Help with Older Versions
--------------------------------------
+Section 1.1 - Help with Older Versions During Boot
+--------------------------------------------------
 
 The Setup for Windows 8.1 or older is not listed because of issues with
 drivers (it didn't find any due to the files being in a different location
