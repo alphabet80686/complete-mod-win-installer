@@ -44,7 +44,7 @@ When booting from the installation media, you will see the following options:
 -	Windows 10 Setup (64-bit)
 -	Windows 10 Setup (32-bit)
 -	Windows 11 Setup
--	
+
 See this next section for more information.
 
 Section 1.1 - Help with Older Versions During Boot
